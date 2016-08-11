@@ -10,20 +10,22 @@ const icons = [
   'arrow-right',
   'bubble',
   'check',
-  'ellipsis-horz',
-  'menu',
-  'paper-plane',
-  'pencil',
-  'reply',
-  'thumbs-up',
-  'times',
+  'checkmark-circle',
+  'clipboard-check',
   'cog',
+  'ellipsis-horz',
   'envelope',
   'lifebuoy',
-  'paper-stack',
-  'clipboard-check',
+  'lock-solid',
   'lock',
-  'lock-solid'
+  'menu',
+  'paper-plane',
+  'paper-stack',
+  'pencil',
+  'reply',
+  'sync',
+  'thumbs-up',
+  'times'
 ]
 
 const testSVG = icon => {
