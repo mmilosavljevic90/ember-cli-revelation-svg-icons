@@ -30,10 +30,10 @@ export default Component.extend({
   viewBox: '0 0 20 20',
 
   // Partial
-  computedClassName: computed(function() {
+  computedClassName: computed('classPrefix', 'icon', function() {
     return `${this.get('classPrefix')}-${this.get('icon')}`
   }),
-  partialPath: computed(function() {
+  partialPath: computed('computedClassName', function() {
     return `partials/-${this.get('computedClassName')}`
   })
 })
