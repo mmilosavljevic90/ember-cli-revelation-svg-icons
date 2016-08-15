@@ -22,6 +22,7 @@ const icons = [
   'paper-plane',
   'paper-stack',
   'pencil',
+  'plus',
   'reply',
   'sync',
   'thumbs-up',
