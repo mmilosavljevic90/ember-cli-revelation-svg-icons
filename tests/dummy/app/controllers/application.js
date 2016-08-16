@@ -12,19 +12,23 @@ export default Controller.extend({
     'arrow-right',
     'bubble',
     'check',
-    'ellipsis-horz',
-    'menu',
-    'paper-plane',
-    'pencil',
-    'reply',
-    'thumbs-up',
-    'times',
+    'checkmark-circle',
+    'clipboard-check',
     'cog',
+    'ellipsis-horz',
     'envelope',
     'lifebuoy',
-    'paper-stack',
-    'clipboard-check',
+    'lock-solid',
     'lock',
-    'lock-solid'
+    'menu',
+    'paper-plane',
+    'paper-stack',
+    'pencil',
+    'plus',
+    'reply',
+    'sync',
+    'thumbs-up',
+    'times'
   ]
+
 })
