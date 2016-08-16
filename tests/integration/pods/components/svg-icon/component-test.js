@@ -25,7 +25,8 @@ const icons = [
   'reply',
   'sync',
   'thumbs-up',
-  'times'
+  'times',
+  'warning'
 ]
 
 const testSVG = icon => {
