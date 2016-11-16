@@ -11,6 +11,8 @@ const icons = [
   'bubble',
   'check',
   'checkmark-circle',
+  'chevron-left',
+  'chevron-right',
   'clipboard-check',
   'cog',
   'ellipsis-horz',

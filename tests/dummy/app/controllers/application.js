@@ -13,6 +13,8 @@ export default Controller.extend({
     'bubble',
     'check',
     'checkmark-circle',
+    'chevron-left',
+    'chevron-right',
     'clipboard-check',
     'cog',
     'ellipsis-horz',
@@ -28,7 +30,8 @@ export default Controller.extend({
     'reply',
     'sync',
     'thumbs-up',
-    'times'
+    'times',
+    'warning'
   ]
 
 })
