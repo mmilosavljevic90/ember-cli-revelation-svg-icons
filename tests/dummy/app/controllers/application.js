@@ -17,6 +17,7 @@ export default Controller.extend({
     'chevron-right',
     'clipboard-check',
     'cog',
+    'document2',
     'ellipsis-horz',
     'envelope',
     'lifebuoy',
@@ -31,6 +32,7 @@ export default Controller.extend({
     'sync',
     'thumbs-up',
     'times',
+    'user',
     'warning'
   ]
 

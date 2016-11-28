@@ -15,6 +15,7 @@ const icons = [
   'chevron-right',
   'clipboard-check',
   'cog',
+  'document2',
   'ellipsis-horz',
   'envelope',
   'lifebuoy',
@@ -29,6 +30,7 @@ const icons = [
   'sync',
   'thumbs-up',
   'times',
+  'user',
   'warning'
 ]
 
