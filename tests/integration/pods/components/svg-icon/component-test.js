@@ -14,6 +14,7 @@ const icons = [
   'chevron-left',
   'chevron-right',
   'clipboard-check',
+  'clock3',
   'cog',
   'document2',
   'ellipsis-horz',
