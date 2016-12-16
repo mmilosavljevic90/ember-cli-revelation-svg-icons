@@ -21,6 +21,7 @@ export default Controller.extend({
     'ellipsis-horz',
     'envelope',
     'lifebuoy',
+    'link',
     'lock-solid',
     'lock',
     'menu',

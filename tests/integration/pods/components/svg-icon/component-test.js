@@ -19,6 +19,7 @@ const icons = [
   'ellipsis-horz',
   'envelope',
   'lifebuoy',
+  'link',
   'lock-solid',
   'lock',
   'menu',
