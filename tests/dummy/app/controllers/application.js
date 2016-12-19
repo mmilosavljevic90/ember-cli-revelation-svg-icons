@@ -1,8 +1,7 @@
 import Ember from 'ember'
 
 const {
-  Controller,
-  computed: { map }
+  Controller
 } = Ember
 
 export default Controller.extend({
@@ -11,6 +10,8 @@ export default Controller.extend({
     'arrow-left',
     'arrow-right',
     'bubble',
+    'camera',
+    'camera2',
     'check',
     'checkmark-circle',
     'chevron-left',
@@ -38,5 +39,4 @@ export default Controller.extend({
     'user',
     'warning'
   ]
-
 })

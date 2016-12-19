@@ -9,6 +9,8 @@ const icons = [
   'arrow-left',
   'arrow-right',
   'bubble',
+  'camera',
+  'camera2',
   'check',
   'checkmark-circle',
   'chevron-left',
