@@ -16,6 +16,7 @@ const icons = [
   'clipboard-check',
   'clock3',
   'cog',
+  'dial',
   'document2',
   'ellipsis-horz',
   'envelope',
