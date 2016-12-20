@@ -30,6 +30,7 @@ export default Controller.extend({
     'menu',
     'paper-plane',
     'paper-stack',
+    'paperclip',
     'pencil',
     'plus',
     'reply',
