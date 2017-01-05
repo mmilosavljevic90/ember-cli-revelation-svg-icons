@@ -1,8 +1,7 @@
 import Ember from 'ember'
 
 const {
-  Controller,
-  computed: { map }
+  Controller
 } = Ember
 
 export default Controller.extend({
@@ -11,6 +10,8 @@ export default Controller.extend({
     'arrow-left',
     'arrow-right',
     'bubble',
+    'camera',
+    'camera2',
     'check',
     'checkmark-circle',
     'chevron-left',
@@ -19,9 +20,14 @@ export default Controller.extend({
     'clock3',
     'cog',
     'dial',
+    'document',
     'document2',
     'ellipsis-horz',
     'envelope',
+    'file-charts',
+    'file-image',
+    'file-spreadsheet',
+    'file-zip',
     'lifebuoy',
     'link',
     'lock-solid',
@@ -29,6 +35,7 @@ export default Controller.extend({
     'menu',
     'paper-plane',
     'paper-stack',
+    'paperclip',
     'pencil',
     'plus',
     'reply',
@@ -38,5 +45,4 @@ export default Controller.extend({
     'user',
     'warning'
   ]
-
 })
