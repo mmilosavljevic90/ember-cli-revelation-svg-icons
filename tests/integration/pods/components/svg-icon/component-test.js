@@ -38,6 +38,7 @@ const icons = [
   'pencil',
   'plus',
   'reply',
+  'screen',
   'sync',
   'thumbs-up',
   'times',

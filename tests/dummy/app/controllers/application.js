@@ -39,6 +39,7 @@ export default Controller.extend({
     'pencil',
     'plus',
     'reply',
+    'screen',
     'sync',
     'thumbs-up',
     'times',
